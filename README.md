@@ -5,6 +5,8 @@
 <p align="center">
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Obout the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    
   <a href="#memo-licença">Licence</a>
 </p>
 
@@ -31,10 +33,13 @@ This project was developed with the following technologies:
 
 ## 💻 Obout the project
 
-Happy is an application that connects people to institutional care homes to make many children's day happier
+Happy is an application that connects people to institutional care homes to make many children's day happier;
 
 ## 🧠 How to use:
-
+- Yarn init
+- CD to server/mobile/web
+- Yarn start to run the mobile/web apps
+- Yarn dev to run the server
 ## :memo: Licence
 
 This project is under the MIT license. You can check the licence file [LICENSE](LICENSE.md) for more details.
