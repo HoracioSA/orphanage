@@ -6,7 +6,7 @@
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Use">Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;   
-  <a href="#memo-licença">Licence</a>
+  <a href="#memo-Licence">Licence</a>
 </p>
 
 <p align="center">
