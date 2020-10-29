@@ -3,10 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Obout the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Use">Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;   
   <a href="#memo-licença">Licence</a>
 </p>
 
@@ -31,11 +30,11 @@ This project was developed with the following technologies:
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 💻 Obout the project
+## 💻 Project
 
 Happy is an application that connects people to institutional care homes to make many children's day happier;
 
-## 🧠 How to use:
+## 🧠 Use:
 - Yarn init
 - CD to server/mobile/web
 - Yarn start to run the mobile/web apps
