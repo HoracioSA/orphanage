@@ -9,7 +9,6 @@ import Sidebar from "../components/Sidebar";
 import mapIcon from "../utils/mapIcon";
 import api from "../services/api";
 
-
 export default function CreateOrphanage() {
   const history =useHistory()
   const [position, setPosition]= useState({latitude:0, longitude:0})

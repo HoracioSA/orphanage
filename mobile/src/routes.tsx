@@ -13,6 +13,7 @@ export default function Routes(){
         <NavigationContainer>
             <Navigator screenOptions={{headerShown:false, cardStyle:{backgroundColor:'#f2f2f5'}}}>
                 <Screen 
+                
                 name="OrphanageMap" 
                 component={OrphanagesMap}
                 />
