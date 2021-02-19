@@ -23,7 +23,7 @@
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
-- [Orphanage website](https://horacio-sa-orphanage.netlify.app/app)
+- [Orphanage website](https://educ-first3.vercel.app)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
