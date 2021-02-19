@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Happy" title="Happy" src=".github/logo.png" />
 </h1>
-- [Orphanage website](https://horacio-sa-orphanage.netlify.app/app)
+
 <p align="center">
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -23,7 +23,7 @@
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
-
+- [Orphanage website](https://horacio-sa-orphanage.netlify.app/app)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
